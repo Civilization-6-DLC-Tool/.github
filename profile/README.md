@@ -7,7 +7,7 @@ An all-in one tool that automatically unlocks, downloads and activates DLCs in *
 ## 🔗 Latest Release of Civilization 6 DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Civilization-6-DLC-Tool/.github/releases/)
   
 
 ---
